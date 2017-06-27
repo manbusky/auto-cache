@@ -5,18 +5,6 @@
 
 ## get start
 
-### 引入`auto-cache`的依赖
-
-`pom.xml`增加如下依赖：
-
-```
-<dependency>
-	<groupId>auto.cache</groupId>
-    <artifactId>auto-cache</artifactId>
-    <version>0.9.0</version>
-</dependency>
-```
-
 ### 实现缓存相关的类
 
 #### 实现  `auto.cache.template.CacheTemplate`
